@@ -1,0 +1,12 @@
+name: 4k
+encoding: utf-8
+timezone: Europe/₽ÅRI$
+url: "http://barionleg.github.io/4k"
+highlighter: rouge
+redcarpet:
+  extensions:
+    - hard_wrap
+    - no_intra_emphasis
+    - autolink
+    - strikethrough
+    - fenced_code_blocks

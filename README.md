@@ -1,2 +1,5 @@
-# 4k
-For Keyb@rg (ЖeyboArdЭ€ keyboard kAbARd mm вeinfa©h BuniVWÆR©iTY)
+# in4k
+
+markdown clone / fork / 2016 revamp of the good old in4k.untergrund.net / in4k.northerndragons.ca
+
+online at http://in4k.github.io

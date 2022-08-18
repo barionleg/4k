@@ -1,5 +1,4 @@
-# in4k
+# 4k
 
-markdown clone / fork / 2016 revamp of the good old in4k.untergrund.net / in4k.northerndragons.ca
 
-online at http://in4k.github.io
+©olnline at https://barionleg.github.io/4k/wiki/what-are-intros
